@@ -2,10 +2,10 @@
 Yang saya kerjakan yaitu mengisi 'HelloProsedural', 'HelloOOP', 'HelloFungsional' sampai ketiganya menghasilkan kalimat sapaan yang sama, yaitu "Aset-Pinjam", nama, dan NIM saya. Saya juga mengisi 'mahasiswa.properties' dan mengunduh JDK 21 dan Maven. Serta menguji hasilnya dengan menjalankan 'scripts/uji.sh'.
 
 ## Keputusan desain
-(Apa yang Anda putuskan dan kenapa. Rujuk docs/asumsi.md bila perlu.)
+Kalimat sapaan dibuat sama di ketiga gaya pemrograman supaya hasilnya konsisten.
 
 ## Kendala
-(Apa yang sulit dan bagaimana Anda mengatasinya)
+saya aga kesulitan tentang maven yang tidak bisa ke baca di vscode.
 
 ## Penggunaan AI
 - Alat yang dipakai: Cloud
@@ -16,3 +16,7 @@ Yang saya kerjakan yaitu mengisi 'HelloProsedural', 'HelloOOP', 'HelloFungsional
   disusun dengan cara berpikir berbeda. Di OOP data dibungkus dalam class dengan field
   private, sedangkan di gaya fungsional saya cukup mengembalikan sebuah fungsi lewat lambda.
   Dari situ saya jadi paham bahwa pemilihan paradigma bergantung pada kebutuhan sistem.
+
+## uji test
+![uji test](cmd.png) 
+![uji test](cmd2.png)
