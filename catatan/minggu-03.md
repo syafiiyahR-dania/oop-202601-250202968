@@ -1,4 +1,4 @@
-# Catatan Minggu-03: 
+# Catatan Minggu-03: Inheritance
 
 ## Yang saya kerjakan
 Minggu ini saya membuat tiga class, yaitu `Ruang.java`, `Laptop.java`, dan `AlatLab.java`, yang mewarisi dari kelas `Aset.java`. Saya menambahkan atribut, konstruktor, getter, dan metode `getJenis()` ke masing-masing class. Saya juga menambahkan aturan validasi agar kapasitas ruangan harus lebih dari 0, spesifikasi.
